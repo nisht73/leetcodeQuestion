@@ -23,4 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nisht73/leetcodeQuestion/tree/master/0071-simplify-path) |
+| [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
