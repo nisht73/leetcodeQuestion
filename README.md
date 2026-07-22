@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nisht73/leetcodeQuestion/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0394-decode-string) |
+| [0901-online-stock-span](https://github.com/nisht73/leetcodeQuestion/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nisht73/leetcodeQuestion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nisht73/leetcodeQuestion/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/nisht73/leetcodeQuestion/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nisht73/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/nisht73/leetcodeQuestion/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nisht73/leetcodeQuestion/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
