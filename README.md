@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nisht73/leetcodeQuestion/tree/master/0071-simplify-path) |
+| [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nisht73/leetcodeQuestion/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nisht73/leetcodeQuestion/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nisht73/leetcodeQuestion/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
