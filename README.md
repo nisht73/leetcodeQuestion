@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nisht73/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/nisht73/leetcodeQuestion/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
