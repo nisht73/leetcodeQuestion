@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/nisht73/leetcodeQuestion/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0394-decode-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
