@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nisht73/leetcodeQuestion/tree/master/0239-sliding-window-maximum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0724-find-pivot-index](https://github.com/nisht73/leetcodeQuestion/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nisht73/leetcodeQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nisht73/leetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/nisht73/leetcodeQuestion/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nisht73/leetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/nisht73/leetcodeQuestion/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
