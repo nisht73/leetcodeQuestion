@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nisht73/leetcodeQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nisht73/leetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/nisht73/leetcodeQuestion/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nisht73/leetcodeQuestion/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nisht73/leetcodeQuestion/tree/master/0069-sqrtx) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nisht73/leetcodeQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Backtracking
 |  |
 | ------- |
