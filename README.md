@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nisht73/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/nisht73/leetcodeQuestion/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/nisht73/leetcodeQuestion/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/nisht73/leetcodeQuestion/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nisht73/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
 ## Recursion
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
 ## Counting
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/nisht73/leetcodeQuestion/tree/master/1710-maximum-units-on-a-truck) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nisht73/leetcodeQuestion/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
