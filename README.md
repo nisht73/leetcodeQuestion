@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nisht73/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nisht73/leetcodeQuestion/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nisht73/leetcodeQuestion/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nisht73/leetcodeQuestion/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nisht73/leetcodeQuestion/tree/master/0055-jump-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/nisht73/leetcodeQuestion/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0394-decode-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
