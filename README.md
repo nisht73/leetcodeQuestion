@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nisht73/leetcodeQuestion/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nisht73/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/nisht73/leetcodeQuestion/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nisht73/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/nisht73/leetcodeQuestion/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/nisht73/leetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nisht73/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nisht73/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nisht73/leetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nisht73/leetcodeQuestion/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nisht73/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
