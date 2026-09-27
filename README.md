@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/nisht73/leetcodeQuestion/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nisht73/leetcodeQuestion/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nisht73/leetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nisht73/leetcodeQuestion/tree/master/1672-richest-customer-wealth) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/nisht73/leetcodeQuestion/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
