@@ -1,28 +1,17 @@
 class Solution {
-
     public int[] twoSum(int[] nums, int target) {
-        for(int i = 0; i < nums.length; i++){
-            for(int j = i + 1; j < nums.length; j++){
-                if(nums[i] + nums[j] == target){
-                    return new int[]{i, j};
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for(int j = 0; j < nums.length; j++){
+            int needed = target - nums[j];
+
+            if(map.containsKey(needed)){
+                return new int[]{map.get(needed), j};
             }
+
+            map.put(nums[j], j);
         }
-        return null;
-    }
 
-    public static void main(String[] args){
-        Solution obj = new Solution();   // create object
-
-        int nums[] = {2,7,11,15};
-        int target = 9;
-
-        int[] result = obj.twoSum(nums, target);  // call using object
-
-        if(result != null){
-            System.out.println("(" + result[0] + "," + result[1] + ")");
-        } else {
-            System.out.println("no pair found");
-        }
+        return new int[]{};
     }
 }
