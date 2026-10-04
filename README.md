@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/nisht73/leetcodeQuestion/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/nisht73/leetcodeQuestion/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/nisht73/leetcodeQuestion/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/nisht73/leetcodeQuestion/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
 ## Counting
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/nisht73/leetcodeQuestion/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/nisht73/leetcodeQuestion/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nisht73/leetcodeQuestion/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/nisht73/leetcodeQuestion/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
