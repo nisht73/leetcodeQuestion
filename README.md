@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nisht73/leetcodeQuestion/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nisht73/leetcodeQuestion/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nisht73/leetcodeQuestion/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/nisht73/leetcodeQuestion/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nisht73/leetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/nisht73/leetcodeQuestion/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nisht73/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nisht73/leetcodeQuestion/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nisht73/leetcodeQuestion/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nisht73/leetcodeQuestion/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nisht73/leetcodeQuestion/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/nisht73/leetcodeQuestion/tree/master/0455-assign-cookies) |
 ## Math
 |  |
