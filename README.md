@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nisht73/leetcodeQuestion/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/nisht73/leetcodeQuestion/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/nisht73/leetcodeQuestion/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/nisht73/leetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nisht73/leetcodeQuestion/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0394-decode-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nisht73/leetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nisht73/leetcodeQuestion/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nisht73/leetcodeQuestion/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/nisht73/leetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nisht73/leetcodeQuestion/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nisht73/leetcodeQuestion/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nisht73/leetcodeQuestion/tree/master/0283-move-zeroes) |
