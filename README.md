@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nisht73/leetcodeQuestion/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/nisht73/leetcodeQuestion/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/nisht73/leetcodeQuestion/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 | [0763-partition-labels](https://github.com/nisht73/leetcodeQuestion/tree/master/0763-partition-labels) |
 ## Counting
 |  |
@@ -230,15 +231,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
