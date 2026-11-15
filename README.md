@@ -231,20 +231,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/nisht73/leetcodeQuestion/tree/master/0112-path-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/nisht73/leetcodeQuestion/tree/master/0112-path-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/nisht73/leetcodeQuestion/tree/master/0112-path-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/nisht73/leetcodeQuestion/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nisht73/leetcodeQuestion/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/nisht73/leetcodeQuestion/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
